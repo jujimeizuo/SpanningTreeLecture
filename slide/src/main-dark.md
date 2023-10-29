@@ -3,9 +3,10 @@ title: 最小生成树 - 算法设计与分析
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: simple
-highlightTheme: github
+highlightTheme: monokai-sublime
 css: 
     - custom.css
+    - dark.css
 revealOptions:
     transition: 'slide'
     transitionSpeed: fast
